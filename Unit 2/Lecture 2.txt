@@ -1,0 +1,19 @@
+Lecture Unit 2
+
+Bias Computers have Programs
+People make computers and phones are bias
+AI is bias
+AI is trained with data
+Black box information that you don't know.
+Any Language use for AI
+Context Window
+Emerge Genrator
+Hallucination an error
+Meta Promt / System Prompt
+Helpfull 
+Promt Engineering way to talk to AI
+Token never the same.
+an imput each word for a token
+3 letters to 5 letters to a token.
+short imput and short output.
+AI guest at every thing.
